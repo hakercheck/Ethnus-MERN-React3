@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ethnus-MERN-React3/static/css/main.86a01b41.css",
+    "main.js": "/Ethnus-MERN-React3/static/js/main.0491c978.js",
+    "static/js/787.77b0450a.chunk.js": "/Ethnus-MERN-React3/static/js/787.77b0450a.chunk.js",
+    "index.html": "/Ethnus-MERN-React3/index.html",
+    "main.86a01b41.css.map": "/Ethnus-MERN-React3/static/css/main.86a01b41.css.map",
+    "main.0491c978.js.map": "/Ethnus-MERN-React3/static/js/main.0491c978.js.map",
+    "787.77b0450a.chunk.js.map": "/Ethnus-MERN-React3/static/js/787.77b0450a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86a01b41.css",
+    "static/js/main.0491c978.js"
+  ]
+}
